@@ -1,0 +1,18 @@
+
+# Language: Español
+# Author: Diego Martínez <lkaezadl3@gmail.com>
+
+Copper = Cobre
+Bronze = Bronce
+Silver = Plata
+Gold = Oro
+Mithril = Mitrilo
+Kalite = Kalita
+Akalin = Akalin
+Alatro = Alatro
+Arol = Arol
+Talinite = Talinita
+Fire = Fuego
+Water = Agua
+Ice = Hielo
+Snow = Nieve
